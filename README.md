@@ -1,6 +1,7 @@
 # 管理ボット0（QD）
 ### This is *QuestDragon Mk-2*, the next generation account of QuestDragon. 
 ### *～次世代のクエストドラゴンアカウント～*
+![QuestDragon Mk-2](./ProfileBot2.png)
 
 ## このドキュメントについて
 本ドキュメントでは管理ボット0の使い方をまとめています。helpコマンドを搭載していない代わりとして作成しています。使用方法が分からなくなった際などにご活用ください。
